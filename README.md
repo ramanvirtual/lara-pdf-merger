@@ -5,14 +5,14 @@ Original written by http://pdfmerger.codeplex.com/team/view<br/>
 ###Update
 
 Change parsers and use tcpdf, tcpdi and tcpdi_parser
-  
+ Originally taken from lynx39/lara-pdf-merger , remove depreceated functions
 ## Installation
 
 ### Laravel 5.x:
 
 Require this package in your composer.json and update composer.
 
-    "lynx39/lara-pdf-merger": "dev-master",
+    composer require ramanvirtual/lara-pdf-merger,
 
 After updating composer, add the ServiceProvider to the providers array in config/app.php
 
