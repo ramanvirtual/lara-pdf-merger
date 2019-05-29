@@ -4,8 +4,8 @@ Original written by http://pdfmerger.codeplex.com/team/view<br/>
 
 ###Update
 
-Change parsers and use tcpdf, tcpdi and tcpdi_parser
  Originally taken from lynx39/lara-pdf-merger , remove depreceated functions
+ 
 ## Installation
 
 ### Laravel 5.x:
