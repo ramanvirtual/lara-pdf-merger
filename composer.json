@@ -1,0 +1,24 @@
+{
+    "name": "ramanvirtual/lara-pdf-merger",
+    "description": "Generic PDF merger for Laravel",
+    "keywords": ["merger","merge","pdf","manage","paginate", "laravel"],
+    "license" : [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Raman Aggarwal",
+            "email": "ramanaggarwal@virtualemployee.com",
+            "homepage": "https://github.com/ramanvirtual"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4"
+    },
+    "homepage" : "https://github.com/kuberjsr/lara-pdf-merger",
+    "autoload": {
+        "psr-0": {
+            "Ramanvirtual\\LaraPdfMerger": "src/"
+        }
+    }
+}
